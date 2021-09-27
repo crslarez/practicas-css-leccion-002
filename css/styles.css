@@ -10,6 +10,23 @@ h1{
 .rosa{
     background-color: hotpink ;
 }
+
+
+.amarillo{
+    background-color: gold;
+}
+
+.violeta{
+    background-color: blueviolet;
+}
+
+.verde{
+    background-color: lime;
+}
+
+.azul{
+    background-color: turquoise;
+}
 .rojo, .rosa{
     color: white;
 }
